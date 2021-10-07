@@ -1,2 +1,2 @@
 # Payment-Gateway-Integration
-Integrating Paytm Payment Gateway to Webpage
+Integrating Razorpay Payment Gateway to Webpage
